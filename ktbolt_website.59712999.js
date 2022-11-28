@@ -142,13 +142,13 @@
       this[globalName] = mainExports;
     }
   }
-})({"7uXnw":[function(require,module,exports) {
+})({"lX4BT":[function(require,module,exports) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "d6ea1d42532a7575";
-module.bundle.HMR_BUNDLE_ID = "8bb3e387a6133f21";
+module.bundle.HMR_BUNDLE_ID = "7055c94b59712999";
 "use strict";
 /* global HMR_HOST, HMR_PORT, HMR_ENV_HASH, HMR_SECURE, chrome, browser, globalThis, __parcel__import__, __parcel__importScripts__, ServiceWorkerGlobalScope */ /*::
 import type {
@@ -531,8 +531,8 @@ function hmrAcceptRun(bundle, id) {
     acceptedAssets[id] = true;
 }
 
-},{}],"dTRn5":[function(require,module,exports) {
+},{}],"4M6V8":[function(require,module,exports) {
 
-},{}]},["7uXnw","dTRn5"], "dTRn5", "parcelRequireb5df")
+},{}]},["lX4BT","4M6V8"], "4M6V8", "parcelRequireb5df")
 
-//# sourceMappingURL=services.a6133f21.js.map
+//# sourceMappingURL=ktbolt_website.59712999.js.map

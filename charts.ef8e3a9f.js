@@ -143,13 +143,13 @@
     }
   }
 })({"7IQIs":[function(require,module,exports) {
-"use strict";
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "d6ea1d42532a7575";
 module.bundle.HMR_BUNDLE_ID = "bf993e37ef8e3a9f";
+"use strict";
 /* global HMR_HOST, HMR_PORT, HMR_ENV_HASH, HMR_SECURE, chrome, browser, globalThis, __parcel__import__, __parcel__importScripts__, ServiceWorkerGlobalScope */ /*::
 import type {
   HMRAsset,
@@ -533,6 +533,6 @@ function hmrAcceptRun(bundle, id) {
 
 },{}],"jHu1y":[function(require,module,exports) {
 
-},{}]},["7IQIs","jHu1y"], "jHu1y", "parcelRequireb6fe")
+},{}]},["7IQIs","jHu1y"], "jHu1y", "parcelRequireb5df")
 
 //# sourceMappingURL=charts.ef8e3a9f.js.map
